@@ -73,12 +73,17 @@ The project follows **MVVM (Model–View–ViewModel)**.
 
 ## Views
 - `HomeView`
+- `LoginView`
 - `ReceipeDetailView`
 - `AddReceipeView`
 - `SuccessComponentView`
 
 ## ViewModels
 - `HomeViewModel`
+- `AddReceipeViewModel`
+- `ImageLoaderViewModel`
+- `LoginViewModel`
+- `RegisterViewModel`
 
 Responsibilities:
 - Fetch recipes from Firestore
@@ -87,6 +92,8 @@ Responsibilities:
 
 ## Models
 - `Receipe`
+- `SessionState`
+- `Users`
 
 Represents:
 - Recipe name

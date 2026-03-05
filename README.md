@@ -8,9 +8,11 @@ The app uses **Firebase Authentication**, **Firestore**, and **Firebase Storage*
 It demonstrates how to build a real-world iOS application using **SwiftUI**, **MVVM architecture**, and **Firebase backend services**.
 
 ![FinalCookBookApp-ezgif com-video-to-gif-converter-2](https://github.com/user-attachments/assets/44854624-ce02-4d0e-9fae-711dc82fe65a)
-
-
+### ✨ Success State
 ![FinalCookBookApp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5ad5cd74-54a6-42e3-a115-003b3c962c82)
+### ❌ Error State
+![toast-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9378265e-5c3a-4dee-8740-0956fbd65e75)
+
 
 
 ---

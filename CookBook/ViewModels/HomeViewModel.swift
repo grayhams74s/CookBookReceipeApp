@@ -9,6 +9,7 @@ import Foundation
 import FirebaseAuth
 import FirebaseFirestore
 
+@MainActor
 @Observable
 class HomeViewModel {
     
